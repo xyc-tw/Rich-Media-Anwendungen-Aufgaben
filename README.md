@@ -1,8 +1,13 @@
 # Rich-Media-Anwendungen-Aufgaben-1
 
-Einfacher Texteditor mit HTML
-Programmieren Sie einen einfachen Texteditor unter Verwendung von HTML Input-Elementen sowie Auswahlboxen. Der Editor soll dem Benutzer wie in dem letzten Beispiel dieser Lerneinheit eine Texteingabe ermöglichen. Zusätzlich kann durch einen Slider (Input vom Typ range) die Schriftgröße angepasst werden. Schriftart, Schriftgewicht und Schriftstil sollen über Auswahlboxen veränderbar sein. Auch die Schriftfarbe soll durch einen Color Picker (Input vom Typ color) dynamisch gesetzt werden können.
+Simple text editor with HTML.
 
-Die Form-Elemente vom Typ <input> sowie <select> sind im Body der Template-Datei THJ ESA Template.html (1,53 KB) bereits angelegt.
+Program a simple text editor using HTML input elements and selection boxes.
 
-Zusätzlich ist einiger JavaScript-Code vorgegeben. Entnehmen Sie weitere Hinweise zum Implementieren der fehlenden Funktionalitäten den Kommentaren im Programmcode.
+The editor should allow the user to enter text, as in the last example of this learning unit. 
+
+In addition, the font size can be adjusted using a slider (input of the range type). Font, font weight and font style should be changeable using selection boxes. The font color should also be able to be set dynamically using a color picker (input of type color).
+
+The form elements of type <input> and <select> are already created in the body of the template file THJ ESA Template.html (1.53 KB).
+
+In addition, some JavaScript code is provided. Further information on implementing the missing functionalities can be found in the comments in the program code.
